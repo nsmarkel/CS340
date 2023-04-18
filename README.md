@@ -11,5 +11,3 @@ I always approach problems methodically. In this assignment, I did the same by s
 •	What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 Computer scientists make computer applications. In this case, we created a program that allowed a company to display and sort data. This would help a company that deals with large amounts of data organize that data and make it available to customers. 
-![image](https://user-images.githubusercontent.com/65413974/232764801-da9d8c72-9e06-45ff-ac94-9fe49ef29548.png)
-
